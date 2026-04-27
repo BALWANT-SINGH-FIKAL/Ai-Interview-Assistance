@@ -3,3 +3,15 @@ uvicorn
 websockets
 python-multipart
 pydantic
+SpeechRecognition
+pyttsx3
+pyaudio 
+aiortc
+pydub
+
+insightface
+pillow 
+opencv-python
+numpy
+deepface
+onnxruntime
